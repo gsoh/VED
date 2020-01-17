@@ -1,5 +1,5 @@
 # VED (Vehicle Energy Dataset)
-A novel large-scale database for Fuel and Energy Use of Diverse Vehicles in Real-world.
+A novel large-scale database for fuel and energy use of diverse vehicles in real-world.
 
 VED captures GPS trajectories of vehicles along with their timeseries data of fuel, energy, speed, and auxiliary power usage, and the data was collected through onboard OBD-II loggers from Nov, 2017 to Nov, 2018.
 The fleet consists of total 383 personal cars (264 gasoline vehicles, 92 HEVs, and 27 PHEV/EVs) in Ann Arbor, Michigan, USA. 
