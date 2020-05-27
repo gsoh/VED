@@ -13,9 +13,7 @@ A number of examples were presented in the paper to demonstrate how VED can be u
 
 gsoh@umich.edu.
 
-G.S. Oh, Ph.D. Candidate, University of Michigan.
-
-Advisor: Huei Peng, the Director of Mcity and Professor, University of Michigan.
+GS Oh, Ph.D. Candidate, University of Michigan.
 
 
 
