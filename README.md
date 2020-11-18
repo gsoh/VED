@@ -9,9 +9,10 @@ In total, VED accumulates approximately 374,000 miles.
 A number of examples were presented in the paper to demonstrate how VED can be utilized for vehicle energy and behavior studies. Potential research opportunities include data-driven vehicle energy consumption modeling, driver behavior modeling, machine and deep learning, calibration of traffic simulators, optimal route choice modeling, prediction of human driver behaviors, and decision making of self-driving cars.
 
 Link to the paper: 
-[Vehicle Energy Dataset (VED), A Large-scale Dataset for Vehicle Energy Consumption Research](https://doi.org/10.1109/TITS.2020.3035596), [Arxiv](https://arxiv.org/pdf/1905.02081.pdf)\
+[Vehicle Energy Dataset (VED), A Large-scale Dataset for Vehicle Energy Consumption Research](https://doi.org/10.1109/TITS.2020.3035596)\
 **Geunseob (GS) Oh**, David J. LeBlanc, Huei Peng\
-IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2020 (In press).
+IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2020 (In press).\
+The paper is also available on [Arxiv](https://arxiv.org/pdf/1905.02081.pdf).
 
 
 Contact: gsoh@umich.edu.
