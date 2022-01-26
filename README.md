@@ -11,7 +11,7 @@ A number of examples were presented in the paper to demonstrate how VED can be u
 Link to the paper: 
 [Vehicle Energy Dataset (VED), A Large-scale Dataset for Vehicle Energy Consumption Research](https://doi.org/10.1109/TITS.2020.3035596)\
 **Geunseob (GS) Oh**, David J. LeBlanc, Huei Peng\
-IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2020 (In press).\
+IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2020.\
 The paper is also available on [Arxiv](https://arxiv.org/pdf/1905.02081.pdf).
 
 
@@ -35,10 +35,10 @@ Dynamic Data: "VED_DynamicData.7z" contains a number of "VED_mmddyy_week.csv" fi
 	
 	
 Static Data: "VED_Static_Data_ICE&HEV.xlsx", and "VED_Static_Data_PHEV&EV.xlsx"
-- Includes parameters of all 383 vehicles
+- Includes parameters of all 383 vehicles (264 gasoline vehicles, 92 HEVs, and 27 PHEV/EVs)
+	- There are 3 pure EV vehicles in the dataset. All of them are 2013 Nissan Leaf with an advertised battery capacity of 24 kWh.
 - Columns represent: 
 	VehId,	EngineType,	Vehicle Class,	Engine Configuration & Displacement	Transmission,	Drive Wheels,	Generalized_Weight[lb]
-
 
 
 ## License
